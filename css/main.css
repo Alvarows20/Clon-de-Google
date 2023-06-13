@@ -99,14 +99,14 @@ border: none;
 outline: none;
   }
 
-  main .main-input-container:hover{
+  main .main-input-container:hover {
     box-shadow: 0 1px 6px rgba(32,33,36,.28);
     border: 0 1px 6px rgba(32,33,36,.28);
     border-radius: 100px;
     width: 525px;
   }
  
-main .main-input .search-icon .fa-solid{
+main .main-input .search-icon.fa-solid {
    
     color:#9aa0a6;
 
@@ -117,7 +117,7 @@ padding-left: 16px;
 margin-top: -5px;
 height: 46px;
 }
-main .main-input .camera-icon{
+main .main-input .camera-icon {
     background-image: url('/img/imagen-de-camara.png');
 background-repeat: no-repeat;
 background-size:contain;
@@ -128,7 +128,7 @@ cursor: pointer;
 margin: 0 16px;
 
 }
-main .main-input .micro-icon{
+main .main-input .micro-icon {
 background-image:url('/img/icon-microphone.png');
 background-repeat:no-repeat;
 background-position:center;
@@ -139,7 +139,7 @@ cursor: pointer;
 padding: 0 8px;
 }
  
-.traductor-google{
+.traductor-google {
  color: #4d5156;
 }
 
