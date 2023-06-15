@@ -1,4 +1,4 @@
-# 🇨🇱🇴🇳-🇩🇪-🇬🇴🇴🇬🇱🇪🌐
+# CLON-DE-GOOGLE🌐
 
 Este es un clon básico de la página de inicio de Google, creado con HTML y CSS. El objetivo de este proyecto es recrear la apariencia y funcionalidad principal de la página de inicio de Google.
 
